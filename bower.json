@@ -1,0 +1,29 @@
+{
+  "name": "react-clslide",
+  "version": "0.0.0",
+  "description": "CLSlide",
+  "main": "dist/react-clslide.min.js",
+  "homepage": "https://github.com/CezarLuiz0/react-clslide",
+  "authors": [
+    "Cezar Luiz"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
+    "node_modules",
+    "example",
+    "test"
+  ]
+}
