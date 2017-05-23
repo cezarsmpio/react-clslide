@@ -5,7 +5,7 @@ A simple, responsive and awesome React slideshow.
 
 ## Demo & Examples
 
-Live demo: [CezarLuiz0.github.io/react-clslide](http://CezarLuiz0.github.io/react-clslide/)
+Live demo: http://cezarlz.github.io/react-clslide/
 
 To build the examples locally, run:
 
